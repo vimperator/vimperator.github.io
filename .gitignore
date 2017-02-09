@@ -1,0 +1,7 @@
+# Jekyll
+_site
+.jekyll-metadata
+.sass-cache
+
+# Vim
+*.swp
