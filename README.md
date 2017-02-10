@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Vimperator organization page
 
-You can use the [editor on GitHub](https://github.com/vimperator/vimperator.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Organization page of vimperator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The markdown files will be converted to HTML by github pages (using jekyll).
 
-### Markdown
+Frequently used links are stored in `_data/links.yml`.
+The top menu is created in `_includes/menu.html`.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Development Setup
 
-```markdown
-Syntax highlighted code block
+Run `gem install jekyll bundler` to install the required ruby gems.
+Then clone the repository and change into the directory.
+Run `bundle install` to install the requirements from the Gemfile.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vimperator/vimperator.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To see the current state, run `bundle exec jekyll serve`,
+it will run a local server that you can access from a browser.
+`jekyll serve` will automatically re-generate the pages when it detects any
+changes.

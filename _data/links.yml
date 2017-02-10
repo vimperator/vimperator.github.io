@@ -1,0 +1,11 @@
+---
+download: "https://addons.mozilla.org/en-US/firefox/addon/vimperator"
+muttator_download: "https://addons.mozilla.org/thunderbird/downloads/latest/7162/addon-7162-latest.xpi?src=dp-btn-primary"
+wiki: "https://github.com/vimperator/vimperator-labs/wiki"
+faq: "https://github.com/vimperator/vimperator-labs/wiki"
+github: "https://github.com/vimperator/vimperator-labs"
+vim: "http://www.vim.org/"
+firefox: "http://www.mozilla.com/firefox/"
+thunderbird: "http://www.mozilla.com/thunderbird/"
+mozilla: "http://www.mozilla.org/"
+contact_email: "mailto:vimperator@mozdev.org"
