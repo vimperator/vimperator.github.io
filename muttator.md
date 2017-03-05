@@ -1,8 +1,6 @@
 ---
-title: Vimperator
+title: Muttator
 ---
-
-{% include menu.html %}
 
 # Muttator
 
@@ -56,7 +54,7 @@ Downloads are hosted on the official Firefox Add-ons repository at
 [addons.mozilla.org](httpis://addons.mozilla.org/),
 where you can always find the latest version:
 
-[Download Muttator 1.2]({{ site.data.links.muttator_download }})
+{% include button.html name="Download Muttator 1.2" link=site.data.links.muttator_download %}
 
 [Release Notes](https://raw.githubusercontent.com/vimperator/vimperator-labs/master/muttator/NEWS) |
 [Other Versions](https://addons.mozilla.org/en-US/thunderbird/addon/muttator/versions/) |

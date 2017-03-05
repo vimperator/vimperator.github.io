@@ -2,8 +2,6 @@
 title: Developer Info
 ---
 
-{% include menu.html %}
-
 # Developer Info
 
 The official Vimperator source code is hosted on
