@@ -1,8 +1,6 @@
 ---
-title: Vimperator
+title: Projects
 ---
-
-{% include menu.html %}
 
 # Projects
 

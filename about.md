@@ -2,8 +2,6 @@
 title: About
 ---
 
-{% include menu.html %}
-
 # About
 
 Vimperator was the first project from Vimperator labs and initially written by

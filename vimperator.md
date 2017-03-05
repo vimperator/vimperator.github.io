@@ -2,8 +2,6 @@
 title: Vimperator
 ---
 
-{% include menu.html %}
-
 # Vimperator
 
 **Vimperator** is a [Firefox]({{ site.data.links.firefox }}) browser extension
@@ -61,7 +59,7 @@ Downloads are hosted on the official Firefox Add-ons repository at
 [addons.mozilla.org](httpis://addons.mozilla.org/),
 where you can always find the latest version:
 
-[Download Vimperator]({{ site.data.links.download }})
+{% include button.html name="Download Vimperator" link=site.data.links.download %}
 
 [Release Notes](https://raw.githubusercontent.com/vimperator/vimperator-labs/master/vimperator/NEWS) |
 [Other Versions](https://addons.mozilla.org/en-US/firefox/addon/vimperator/versions/) |

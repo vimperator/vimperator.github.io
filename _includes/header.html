@@ -1,0 +1,104 @@
+<nav class="fullscreen-nav">
+
+	<div class="hover-catcher">
+		<div class="header-left">
+			<ul class="nav-left">
+				<li>
+					<a href="{{ site.url }}/" class="nav-link">Projects</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/vimperator" class="nav-link">Vimperator</a>
+				</li>
+				<li>
+					<a href="{{ site.baseurl }}/muttator" class="nav-link">Muttator</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="logo">
+
+			<a href="{{ site.baseurl }}/">
+				<img src="{{ site.url }}/assets/logo.png" class="gravatar">
+			</a>
+
+		</div>
+
+		<div class="header-right">
+			<!-- In reverse order -->
+			<ul class="nav-right">
+				<li>
+					<a href="{{ site.data.links.github }}" class="nav-link">GitHub</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/about" class="nav-link">About</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/developer_info" class="nav-link">Developer Info</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!-- mobile nav menu -->
+
+<script>
+  function toggleMenu() {
+
+    var menu = document.getElementById('mob-menu');
+
+    if ( menu.className == "menu-hide" ) {
+      menu.className = "menu-show";
+    } else {
+      menu.className = "menu-hide";
+    }
+
+  }
+</script>
+
+<nav class="mobile-nav">
+
+	<div class="mob-logo">
+
+		<a href="{{ site.baseurl }}/">
+			<img src="{{ site.url }}/assets/logo.png" width="80" height="80" class="gravatar">
+		</a>
+
+	</div>
+
+	<div class="menu-container">
+
+		<button id="hamburger-btn" onclick="toggleMenu();" onmouseover="this.style.cursor='pointer';">
+			<span></span>
+			<span></span>
+			<span></span>
+		</button>
+
+		<div class="menu-hide" id="mob-menu">
+
+			<ul>
+				<li>
+					<a href="{{ site.url }}/" class="mob-link">Projects</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/vimperator" class="mob-link">Vimperator</a>
+				</li>
+				<li>
+					<a href="{{ site.baseurl }}/muttator" class="mob-link">Muttator</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/developer_info" class="mob-link">Developer Info</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/about" class="mob-link">About</a>
+				</li>
+				<li>
+					<a href="{{ site.data.links.github }}" class="mob-link">GitHub</a>
+				</li>
+			</ul>
+
+		</div>
+
+	</div>
+
+</nav>

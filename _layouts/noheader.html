@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% if page.mathjax %}
+	    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	{% endif %}
+
+	{% include head.html %}
+</head>
+
+<body>
+
+<article class="extra-wide">
+	{% if page.title %}
+	    <h1 class="title">{{ page.title }}</h1>
+	{% endif %}
+
+	<main>
+		{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
+	</main>
+</article>
+
+</body>
+</html>
