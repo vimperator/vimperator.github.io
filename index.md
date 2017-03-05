@@ -14,7 +14,7 @@ and liberate developers from the tedium of reinventing the wheel.
 
 Currently, these applications are using this library:
 
-## Vimperator
+## Vimperator (for Firefox)
 
 ![Vimperator Completion]({{ site.url }}/assets/vimperator_completions.png)
 
@@ -32,7 +32,7 @@ Also most functionality is available as commands,
 typing `:back` will go back within the current page history,
 just like hitting the back button in the toolbar.
 
-## Muttator
+## Muttator (for Thunderbird)
 
 ![Muttator Minimal]({{ site.url }}/assets/muttator_minimal.png)
 
@@ -50,6 +50,38 @@ selected.
 It also adds commands for accessing most Thunderbird functionality.
 E.g., `:contact -lastname "Vimperator" vimperator@mozdev.org` will add
 Vimperator's mailing list to your address book.
+
+## Vimium (for Chrome)
+
+[Vimium](https://vimium.github.io/) is a Google Chrome extension written by
+[Phil Crosby](http://philc.co/) and [Ilya Sukhar](http://ilya.sukhar.com/) which
+provides keyboard shortcuts for navigation and control in the spirit of the Vim
+editor.
+Due to limitations of the Chrome extension mechanism,
+it is not as powerful as Vimperator but is still considered the best
+Vimperator-like extension for Chrome.
+
+## Vrapper (for Eclipse)
+
+[Vrapper](http://vrapper.sourceforge.net/home/) is an Eclipse plugin which acts
+as a wrapper for Eclipse text editors to provide a Vim-like input scheme for
+moving around and editing text.
+
+Unlike other plugins which embed Vim in Eclipse,
+Vrapper imitates the behaviour of Vim while still using whatever editor you have
+opened in the workbench.
+The goal is to have the comfort and ease which comes with the different modes,
+complex commands and count/operator/motion combinations which are the key
+features behind editing with Vim,
+while preserving the powerful features of the different Eclipse text editors,
+like code generation and refactoring.
+
+## VsVim (for VisualStudio)
+
+[VsVim](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim)
+is a Vim Emulation layer for Visual Studio 2010 and above.
+It integrates the familiar key binding experience of Vim directly into
+Visual Studio's editor.
 
 ## Get involved
 
