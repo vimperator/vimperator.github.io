@@ -55,6 +55,26 @@ hurt — otherwise just use it, recommend it and like it :)
 
 ## Download
 
+<div style="background-color: #ffffcc;; border-left: 6px solid #ffeb3b; padding: 0.01em 16px; margin-top: 16px; margin-bottom: 16px">
+<p>
+<b>NOTE:</b> Vimperator will stop functioning with Firefox 57!
+</p>
+<p>
+Firefox 57 will change their add-on ecosystem to be exclusively based on <a
+href="https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/">WebExtensions</a>.
+While this offers (some) compatibility with extensions written for Chrome and
+Microsoft Edge, it removes the possibility to do many advanced stuff which
+Vimperator does. Additionally, it would require a full rewrite of Vimperator,
+which nobody has volunteered for. Therefore we will stop supporting any Firefox
+version later than Firefox 56. Head over to our GitHub page for <a
+href="https://github.com/vimperator/vimperator-labs#end-of-life-and-alternatives">a
+list of alternatives</a> or <a
+href="https://github.com/vimperator/vimperator-labs/issues/705">a detailed
+discussion</a>.
+</p>
+</div>
+
+
 Downloads are hosted on the official Firefox Add-ons repository at
 [addons.mozilla.org](httpis://addons.mozilla.org/),
 where you can always find the latest version:
