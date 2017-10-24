@@ -60,7 +60,7 @@ hurt — otherwise just use it, recommend it and like it :)
 <b>NOTE:</b> Vimperator will stop functioning with Firefox 57!
 </p>
 <p>
-Firefox 57 will change their add-on ecosystem to be exclusively based on <a
+Firefox 57 will change its add-on ecosystem to be exclusively based on <a
 href="https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/">WebExtensions</a>.
 While this offers (some) compatibility with extensions written for Chrome and
 Microsoft Edge, it removes the possibility to do many advanced stuff which
@@ -71,12 +71,15 @@ href="https://github.com/vimperator/vimperator-labs#end-of-life-and-alternatives
 list of alternatives</a> or <a
 href="https://github.com/vimperator/vimperator-labs/issues/705">a detailed
 discussion</a>.
+If you want to have famous last words, you can take a survey <a
+href="https://docs.google.com/forms/d/e/1FAIpQLSfTvWhTWbWAWpbbeoVM_RkDEQV6dqp4YL9Gt77gNkQHN4pTZA/formResponse">here</a>
+to inspire future add-on authors what you actually liked about Vimperator.
 </p>
 </div>
 
 
 Downloads are hosted on the official Firefox Add-ons repository at
-[addons.mozilla.org](httpis://addons.mozilla.org/),
+[addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/vimperator/),
 where you can always find the latest version:
 
 {% include button.html name="Download Vimperator" link=site.data.links.download %}
