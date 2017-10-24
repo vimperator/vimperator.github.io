@@ -40,6 +40,20 @@ and Muttator and dropped Xulmus (the "Vimperator for Music") from the repository
 as there was no active maintainer and because of the general quality of the
 port.
 
+In the following years, development slightly decreased as Vimperator got more
+and more mature. However, it was still maintained to be compatible with
+new Firefox versions and even gained some new features.
+
+However, 2017 brought the real death to Vimperator, as Firefox radically changed
+due to moving to a multi-process model (called
+[Electrolysis](https://wiki.mozilla.org/Electrolysis)). While this meant a lot
+of incompatibilities for existing add-ons, the final nail in the coffin was
+Firefox 57 moving exclusively to the same extension model as Google Chrome (and Microsoft
+Edge), called [WebExtensions](https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/).
+Porting Vimperator to WebExtensions would mean a complete rewrite, and many features
+would not even be possible. If you (yes, you! ;)) would like to change that by doing
+the port, please contact us.
+
 ## Contact
 
 Please send comments/bug reports/patches to the
