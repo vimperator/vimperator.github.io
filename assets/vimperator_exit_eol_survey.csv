@@ -1,0 +1,356 @@
+"Timestamp","Please list your favorite Vimperator features","Anything else to add?"
+"2017/10/24 12:19:40 PM GMT+2","- hjkl navigation,
+- link following (f),
+- search on the page (with hlsearch that stopped working some time ago :/),
+- moving between tabs (gt, Gt),
+- opening new tabs/windows (t, w)
+- the ""IGNORE"" mode useful on websites with their own mappings,","Thanks for the great work!"
+"2017/10/25 6:52:35 AM GMT+2","Keyboard navigation F
+Keyboard only browser controll",""
+"2017/10/25 8:31:03 AM GMT+2","Easy navigation and searching without using your mouse.","I am sad to see you go. :'("
+"2017/10/25 11:57:51 AM GMT+2","user remappable keys to arbitrary commands, moving around page, link hinting mode (incl. extended), insert/passthrough mode, find in page mode, history navigation, tab switching / navigation (:buffer style), opening/closing URLs / tabs / windows, hide Firefox GUI, external editor, quickmarks",""
+"2017/10/25 1:46:12 PM GMT+2","<C-b>/<C-f>/<C-e>/<C-y>, jump commands, gt/gT","Thank you!"
+"2017/10/25 2:48:20 PM GMT+2","run javascript like emacs runs elisp",""
+"2017/10/25 6:27:08 PM GMT+2","vim like mouse less operation","vim like mouse less operation"
+"2017/10/26 5:48:23 AM GMT+2","Use keyboard to quickly open links in current or new tab.","Patterns to selectively disable vimperator on web sites with lots of built in short cuts (e.g. gmail) also essential."
+"2017/10/26 10:47:43 AM GMT+2","The vim-like "":""-menu at the bottom",""
+"2017/10/26 10:50:19 AM GMT+2","the follow-link key","Thank you so much for this beautiful and handy plugin!!!!!"
+"2017/10/26 5:47:05 PM GMT+2","navigation,
+tab open,
+plugins,
+copy/paste, 
+link jump, 
+0 mouse, 
+settings over command line,
+history,
+buffers handler",""
+"2017/10/26 10:13:08 PM GMT+2","fast navigation with keybord",""
+"2017/10/27 4:11:40 AM GMT+2","macro, !cmd",""
+"2017/10/27 1:21:12 PM GMT+2","Typing the link name to follow it after hitting `F`","💔"
+"2017/10/27 10:39:03 PM GMT+2","Possibility to write own shortcuts and customizations.","terrible loss.. "
+"2017/10/28 2:16:35 PM GMT+2","gui=nonavigation",""
+"2017/10/28 5:38:02 PM GMT+2","Minimalistic UI (with no address bar) + convenient keys",":("
+"2017/10/29 12:02:42 PM GMT+2","Mouseless browsing, JavaScript functions.",""
+"2017/10/30 4:20:09 AM GMT+2","- minimalistic ui
+- command line for opening things
+- link follow","Thanks for this great addon which made firefox so much better to use."
+"2017/10/30 10:33:54 AM GMT+2","navigating without mouse","terminal integration
+"
+"2017/10/30 3:27:04 PM GMT+2","minimize GUI elements, simple commands",""
+"2017/10/30 3:32:42 PM GMT+2","link hints, link address hints, paging, marks","Thank you 1000 times for your work"
+"2017/10/31 10:05:22 AM GMT+2","Non-Gui, Macros (usefull for testing), Vim-bindings, just everything actually.","Really big thank for everbody who helped to create the best browsing experience i ever had!"
+"2017/11/01 11:22:47 AM GMT+2","repeat",""
+"2017/11/01 10:14:32 PM GMT+2","RIP Vimperator! The depth of customization with the vimperator rc file is great","the default configuration could look a little prettier (no harsh yellow) and having the -Vimperator at the top was a little annoying."
+"2017/11/02 8:39:22 AM GMT+2","'f' for show links , '/' for searching",""
+"2017/11/02 11:12:06 AM GMT+2","In order: 1: the great shortcuts; 2 the minimal interface (mainly from the older versions) 3: the command mode","Thanks for all the hard work"
+"2017/11/02 12:10:20 PM GMT+2","Undo close tab, hiding the location bar, vimperatorrc configuration file",""
+"2017/11/02 5:30:00 PM GMT+2","In prioritized order: bookmark keywords support; ex-like commands; vim-like keybinds; [f]ollow links; .vimperatorrc with custom keybinds and scripts; ",""
+"2017/11/04 2:00:52 PM GMT+2","t, o, d, u, /, f, F, n, :qa, ]] and [[ and keeping my hands off mouse.","So, yeah, I'm not a power user, it seems. I use a very limited set of features, and I'm not even that good with mouseless navigation as I too easily just grab the pointer. The properties I've accustomed to use work flamlessy in Vimperator. Simple navigation with autocomplete, and that covers the absolute majority of my browsing needs. Based on this, I (obviously) suggest providing even a minimum set of possibilities in hope it will push people wanting more to do something. Thank you for the marvellous work and making my life better for years!"
+"2017/11/04 2:52:39 PM GMT+2","Fabulous navigation between tabs, mouseless usage.",""
+"2017/11/04 9:16:14 PM GMT+2","Buffers and switching them by keywords, following hints, local marks to jump between scroll positions, everything else",""
+"2017/11/05 4:11:48 PM GMT+2","Vi-style navigation, Ctrl-H and Ctrl-J when editing, commands to control options, using vim itself for editing.","The biggest current *problem* with Vimperator is ""d"" accidentally getting triggered.  For example, ""ffind"" where the ""find"" button already gets matched with ""fin"" or ""7d"" accidentally closing 7 tabs."
+"2017/11/06 12:23:47 AM GMT+2","Reduced GUI, f, /, d, D, a, r, R, o, t, gg, command autocomplete, ""tab"" rather than arrows for command suggestion scrolling","Thanks for the work!"
+"2017/11/06 9:45:46 AM GMT+2","Mouseless navigation, Command-Mode, Tab-Commands",""
+"2017/11/07 2:36:14 PM GMT+2","everything","support for webextensions"
+"2017/11/07 3:19:35 PM GMT+2","search, links, caret, navigation, bookmarking","thanks for the great work. "
+"2017/11/08 9:43:40 AM GMT+2","Ability to make commands emacs-like, ability to perform basic browsing features (forward, back, clicking on links, entering text in boxes) without using mouse.",""
+"2017/11/08 4:30:55 PM GMT+2","Hints mode, command line mode, UI choices, stability, consistency, choice of defualt keybindings (U for unclose tab).",":("
+"2017/11/08 7:33:13 PM GMT+2","Popup link shortcuts, configurable ones so we can pick the characters they use","Will miss vimperator"
+"2017/11/09 9:57:58 PM GMT+2","commandline with completion",""
+"2017/11/10 5:17:17 AM GMT+2","gui=none, hints, buffer management/tab search, open,tabopen then search","Sad to see this happen, but not confident at web development stuff."
+"2017/11/10 2:41:04 PM GMT+2","able to use in all domain",""
+"2017/11/10 5:54:52 PM GMT+2","j, k, T, f,  y,  p","love vimperator"
+"2017/11/11 2:07:04 PM GMT+2","Inside page navigation (Up, Down, searches) and tabs management (detach, open, close...)",""
+"2017/11/12 1:10:38 AM GMT+2","EX bar (including themability of said bar)
+default keymap is far superior to that of similar addons
+bookmark commands
+How (unlike similar extensions) new tab and open in current tab commands have a list of suggestions.
+Ability to interact with about pages","I honestly believe that Mozilla is making a colossal mistake with Firefox 57. I for one will no longer be using Firefox in the near future.
+I don't see the point anymore, the old extension system was the one reason I had for continuing to use Firefox."
+"2017/11/12 11:11:25 AM GMT+2","Vim like movement, logical UI",""
+"2017/11/12 3:55:13 PM GMT+2","Mouselessness, power and speed.","You'll be missed. :|"
+"2017/11/13 5:56:35 AM GMT+2",""":map"", "":command!"", qmark, plugins",""
+"2017/11/13 3:02:04 PM GMT+2",":set gui=nonavigation ; paste-and-go with p/P ; shortcuts (o, O, t, T, gt/gT, d, u, gh, gf)",""
+"2017/11/13 6:38:35 PM GMT+2","console
+custom js :map
+fast goto by typing
+gui tweaks",""
+"2017/11/14 1:52:02 PM GMT+2","open [addr], tabopen [addr], winopen [addr], hint-mode, hjkl-scrolling. All of these working no matter which page you we're on. Simplified user interface without any toolbars except the command line with address at the bottom.",""
+"2017/11/14 3:08:38 PM GMT+2","Keymaps to run CSS or Javascript, such as removing a page's CSS via `nmap s :emenu View.Page Style.No Style<CR>`.","Tons, such as keyboard navigation. I'm sure enough people have mentioned that already though."
+"2017/11/14 5:28:58 PM GMT+2","ex :t opening of tabs (mostly google, but also history); 'd' closing of tabs;  NO GUI; j-k scrolling; gg/G 'scrolling' (top/bottom of page); gt-gT.","I installed FF57 today and found out about all this and now I am so sad. I've been using vim-y addons for at least a decade, it's entirely muscle memory now. I have no idea and no appetite for using a non-vim browser."
+"2017/11/14 6:48:18 PM GMT+2","y to copy url, o/t for opening pages","I will probably take months getting used to not having it anymore"
+"2017/11/14 7:41:40 PM GMT+2","Ability to manage almost everything with the keyboard but still being able to do everything with the mouse. The command system is also very self-explanatory and powerful.","Thanks for all the work on it."
+"2017/11/14 8:20:15 PM GMT+2","one key, no finger break shortcuts: close tab, open tab, small and capital letter, cycle through tabs, open form in external editor, / for search, regex search, space to scroll down, very important + and - for zoom","I love you, good bye!"
+"2017/11/14 9:15:28 PM GMT+2","Text configuration",""
+"2017/11/14 10:35:12 PM GMT+2",":tabdettach, :tabattach, :tabmove, :winopen, :tabopen, hjkl, gg, marks, C-i, C-f, C-b","GODDAMMIT FF57 BRING MY VIMPERATOR BACK"
+"2017/11/14 10:38:53 PM GMT+2","* opening with the 'o' or 't' key
+* opening from clipboard with 'p' or 'P'
+* buffer switching with 'b'
+* global bookmarks (I feel super powerful to sit down at the keyboard and hit 'gng' to open my gmail or 'gni' to open my project iteration summary page)
+* being able to multiply operations:  if a link redirects me to a redirect, I can get back by pressing '3H'","I loaded Vimperator as a necessity when I had to do data entry between web pages on a site.  It would have taking the option off the table if I had to use the mouse to navigate that site.  Of course, the 'f' key was essential for that."
+"2017/11/14 11:31:51 PM GMT+2","Vim bindings","Thank you for your awesome Addon. I enjoyed using it for many years."
+"2017/11/15 8:45:33 AM GMT+2","using f and then selecting links using the hotkeys being displayed","thanks for the fish"
+"2017/11/15 8:50:05 AM GMT+2","run search engines using shortcuts (I had 'g' for Google, 'y' for Yandex, 'we' for Wikipedia (eng), 'wr' for Russian Wikipedia, 'twi' for Twitter etc).","Nothing compares to you, Vimium!"
+"2017/11/15 9:49:54 AM GMT+2","qmarks, macros, buffer-commands, quickhint",""
+"2017/11/15 9:51:53 AM GMT+2","^A, ^X, keys: r R, t, d, u ",""
+"2017/11/15 9:52:56 AM GMT+2","running external commands, mappings",""
+"2017/11/15 10:13:44 AM GMT+2","Customizable keystrokes, command input on bottom of screen, custom commands",""
+"2017/11/15 11:04:56 AM GMT+2","everything, will miss it a lot",""
+"2017/11/15 12:02:36 PM GMT+2","The command-line.","And vim-like keybindings."
+"2017/11/15 1:51:52 PM GMT+2","hints, command mode, edit text in gvim, plugins, firefox can be used as server and autotest","Firefox is useless without vimperator"
+"2017/11/15 2:27:09 PM GMT+2","hints, opening and closing tabs via keyboard, actions recording, and so many more..","I loved using Vimperator and Firefox, it was great while it lasted. Mozilla devs are braindead idiots, they are hellbent on alienating their remaining users. What a damn shame."
+"2017/11/15 3:10:39 PM GMT+2","Ex commands, tab completion, status line like in vim, the keybindings incl. for navigation between tabs, using of tags and keywords for opening of tabs, hint function",""
+"2017/11/15 4:16:41 PM GMT+2","Portable configuration (vimperatorrc): easy to have same keybindings on several machines. Can be copied from personalized vimrc (e.g. to accomodate exotic keyboard layouts): ensures same habits between Vim and Vimperator.","I'll miss it badly. I'm going to switch to Firefox 57 as late as I can, but I'll eventually have to switch."
+"2017/11/15 4:17:17 PM GMT+2","tab (buffer) navigation, directly reachable menu entries, search on page, very good hinting system, hide standard UI, suggestions system, scripting","I'm sad. Very, very sad."
+"2017/11/15 6:11:38 PM GMT+2","All functionalities were useful and easy to work with.",""
+"2017/11/15 6:59:57 PM GMT+2","Well, the whole thing so keyboard driven, hints, tab navigation, command line ...",""
+"2017/11/15 10:13:59 PM GMT+2","Link selection using the link name instead of random characters. Buffer selection, new tab, and delete tab are all great as well.","Thanks for all the work to create and maintain Vimperator! I'm sorry it's EOL."
+"2017/11/16 1:18:03 AM GMT+2","hjkl tabopen d .vimperatorrc",""
+"2017/11/16 3:08:34 AM GMT+2","VI Keyboard browsing","I'll will miss it big time... I'll roll back firefox to a version that I can still use vimperator on."
+"2017/11/16 8:54:48 AM GMT+2","Rich functionality and ability to save custom configuration in .vimperatorrc",""
+"2017/11/16 9:14:51 AM GMT+2","You know, the things that it lets you do with your fingers.","I'll be lost without this, or pentadactyl, I doubt there will be any valid alternatives, I like luakit and qutebrowser, but there are other firefox plugins I need(not as much as this one) ;) goodbye."
+"2017/11/16 9:49:09 AM GMT+2","navigation, tabopen / open, search, tab switching, user remappable commands","I actually forgot how to use Firefox without vimperator"
+"2017/11/16 9:57:21 AM GMT+2","it works like vim.:( :( i will miss you",""
+"2017/11/16 10:04:06 AM GMT+2","- Fast Vim-Like key commands
+- Mouse-Less clicking on Links, buttons and other fields
+- It doesn't change the UI","Vimperator is great, I will miss it. So sad."
+"2017/11/16 10:48:53 AM GMT+2","own plugin ecosystem",""
+"2017/11/16 12:10:23 PM GMT+2","o t y p b hjkl ^d^u aA f","Thanks! I had been using vimperator for a good five years and find myself missing it everytime I'm forced to use a vanilla firefox session. Also the main reason I didn't move to chromium, their vi plugins don't come close to what you had."
+"2017/11/16 12:30:09 PM GMT+2","keyboard-only browsing, vim-like interface, command mode, external form field editing, options to hide Firefox GUI elements",""
+"2017/11/16 2:14:57 PM GMT+2","tab navigation (ctrl+n, ctrl+p shortcuts), follow, gi shortcut (move focus for first input on page)","it's sad that we don't prepare for this earlier"
+"2017/11/16 4:09:20 PM GMT+2","hjlk and ctrl-D/U navigation on page, tab search, tab list and easy tab navigation (bNUM), editing text in an external editor, shortcuts for bookmark add and setting/addons pages (via :dialog), multiple modes (insert, caret), ignore all keys mode. Style customization.","Nope. Just transfer old stuff. It saved a lot of time for me. And I can't imagine working without it. Thanks"
+"2017/11/16 5:04:39 PM GMT+2","* Vim-like keybindings
+* Ex commands
+* Tab completion available for all commands with support for 'longest' matching when set in 'wildmode'
+* Extensions! Yes, you can extend Vimperator's functionality with scripts just like you can extend Firefox with extensions
+* Explore JavaScript objects with :echo window and even context-sensitive tab completion
+* Hit-a-hint like navigation of links (start with f to follow a link)
+* Advanced completion of bookmark and history URLs (searching also in title, not only URL)
+* Easy quick searches (:open foo will search for ""foo"" in google, :open ebay terminator will search for ""terminator"" on ebay) with support for Firefox keyword bookmarks and search engines
+* Marks support (ma to set mark 'a' on a webpage, 'a to go there)
+* QuickMarks support (quickly go to previously marked web pages with go{a-zA-Z0-9})
+* :map and :command support (and feedkeys() for script writers)","Vimperator is important to my life even though it got stopped... Thank you very much for your precious works!"
+"2017/11/16 5:21:01 PM GMT+2","open /close links and tabs without the need of a mouse",""
+"2017/11/16 6:40:26 PM GMT+2","I use all of these features constantly.
+
+f to follow link
+F to follow link in new tab
+:tabnew to create a new tab
+gT and gt to move backward and forward through tabs
+:q to close a tab
+/ to search on a page
+f to select an input field to type into
+<esc> to get out of edit mode
+:bu # to switch to a tab
+","I started using Vimperator to help with my repetitive strain injury caused by using the mouse.  I tried several other plugins but Vimperator was the best by far. It's unfortunate to see it go."
+"2017/11/16 6:52:52 PM GMT+2","It's similar to Pentadactyl, which I do prefer. Even so, vimperator bindings seem more natural to a vim user than other, non-pentadactyl, addons.","Thank you very much for the hard work on a great tool. I spend much of my work and home time in my browser, and Vim keybindings so far have been a deal breaker for me in browser choice. If it were a matter of money to get this working well, on any browser, I think may people would be happy to help with a kickstarter campaign."
+"2017/11/16 9:03:38 PM GMT+2","Full keyboard usability ! Writing your own commands was also super kewl.","Please switch your project to Vivaldi. "
+"2017/11/16 11:12:07 PM GMT+2","Link hinting, automatic increment on URLs (Ctrl+A), o/t/O/T shortcuts with full-detail bar for quick tab opening or shifting",""
+"2017/11/16 11:39:03 PM GMT+2","keyboard driven browsing using vim-like keybindings",""
+"2017/11/17 12:14:24 AM GMT+2","scrolling via vim keys, the f to highlight and select pages, u d t tab management, ctrl n,p tab scrolling, and buffers.","I love vimperator! It's what got me to switch to firefox in the first place."
+"2017/11/17 3:04:22 PM GMT+2","Keyboard browsing (f function), customizability, keyboard hotkeys.",""
+"2017/11/17 3:35:35 PM GMT+2","navigation of tabs, scrolling windows, and following links ","searching bookmarks and custom macros"
+"2017/11/17 6:03:32 PM GMT+2","Ctrl+I in a <textarea> to open gvim -f on it.",""
+"2017/11/17 7:46:02 PM GMT+2","F and /",""
+"2017/11/17 7:48:45 PM GMT+2","1. vim-keybindings
+2. command-line and gui modifications (replace navigation bar, etc.)
+3. hint mode
+4. external editor support (open gvim for a text-field with ctrl-i)
+5. macros",""
+"2017/11/17 8:16:18 PM GMT+2","fF T H","most useful addon in entire firefox catalogue"
+"2017/11/17 8:35:01 PM GMT+2","Tab management, opening links quickly (""f""), regex search, "";"", mouseless bookmarks. Navigating pages and the web without a mouse","This was my favourite extension and I'm sorry to see it go! I'm trying out Tridactyl as soon as I submit this form."
+"2017/11/17 9:04:45 PM GMT+2","hjkl navigation everywhere, remappable keybindings",""
+"2017/11/17 10:26:42 PM GMT+2","Customizable hint keys, :tabdo, key remapping, macros","Thanks for all you've done!"
+"2017/11/18 11:51:17 AM GMT+2","f for following links, gt/gT for switching between tabs, t for tabopen, o for open, ba/fo for going through history, bd for closing tabs, u for undo closing",""
+"2017/11/18 4:36:55 PM GMT+2","Definitely Smart Completions",""
+"2017/11/19 1:54:05 PM GMT+2","f - follow links by sub-string. j,k - up/down, d - close page. configurability.","Thanks for making the excellent Vimperator for all these years. =o)"
+"2017/11/19 2:35:29 PM GMT+2","Surfing without a mouse.","This is a shame. Web browsing will never be the same again. 
+
+Will switch to any browser with full vimperator compatibility. 
+
+For security reasons alone, staying on an outdated firefox version is not an option in any professional environment. "
+"2017/11/20 2:41:11 AM GMT+2","Everything listed in the main comment on Issue 729, made browsing quick and easy.","A big thank you to the devs who worked on this extension."
+"2017/11/20 7:24:46 AM GMT+2","browser shortcut mapping",""
+"2017/11/20 3:39:25 PM GMT+2","Follow link was hard to use instead of the mouse, but everytime I did I loved it (less wrist strain). Just basic movement was great too -hjkl, gg G, etc.","You guys are awesome. Mozilla is not. This was basically why I kept using Firefox and despite the extension breaking _all the time_ you volunteers kept at it.
+
+Again, you all are awesome."
+"2017/11/20 9:55:07 PM GMT+2","Using basic vim shortcuts to open a search in a new tabs, navigate between tabs, search...","Advanced features are always nice but it's the basics that matter the most. Macros for instance are very secondary."
+"2017/11/20 10:11:16 PM GMT+2","UI customization; keyboard navigation (arrows, links, and others); probably some other features I'm not thinking of","I will miss Vimperator."
+"2017/11/21 8:33:18 PM GMT+2","I liked everything about it, tabs like buffers, search in buffers +200 tabs open","Super-productive addon all these years! Thanks from Norway!"
+"2017/11/21 8:51:10 PM GMT+2","shortcuts",""
+"2017/11/22 1:07:08 AM GMT+2","All of them, I loved every single saved mouse click","I'm at a loss, truly browser-heart broken. The Vimperator is dead, long live the Vimperator!"
+"2017/11/22 2:10:17 AM GMT+2","How analogous it is to Vim. Switching tabs feels exactly like flipping between buffers. Learning to use Vim was worthwhile after all ;)","Vim style extensions could motivate improved accessibility within Firefox and other programs. This should be supported and embraced as it could help many who struggle with program UI."
+"2017/11/22 10:29:03 AM GMT+2","f",""
+"2017/11/22 3:02:15 PM GMT+2","gg,G,H,t,o,f,R,/,i,^I","I am totally lost without Vimperator on my browser... anyway, thanks for your work, it was fantastic!"
+"2017/11/22 6:42:24 PM GMT+2","Vim movement keys - T to open a tab - link following - macros!","Please gives us vimperator for quantum"
+"2017/11/23 9:49:53 AM GMT+2","Vim like shortcuts, like search, close tab, etc.","The one most used extension in my firefox. Thanks for the effort."
+"2017/11/23 2:40:46 PM GMT+2","* easy disabling/enabling with s-esc
+* ""next/previous"" navigation with ]] and [[
+* page increment and decrement with c-a and c-x
+* tab search (:buffer, b)
+* page scrolling (j, k, c-u, c-d)
+* link navigation (f, F, ;F)
+* page search (/)",""
+"2017/11/23 5:08:09 PM GMT+2","link hotkeys, hotkey text customization, tabopen search, tabmove, open buffer search","What I liked most about Vimperator, compared to the other ViM-like extensions, was its consistency with ViM."
+"2017/11/23 8:24:16 PM GMT+2","""f"" to light up numbered links, then pick one and ""click"" with your keyboard.
+tab opening-closing with a single button.
+macros for own websites ("":cmd arg"" opens a website with arg in the URL)","Farewell vimperator..."
+"2017/11/24 6:32:25 PM GMT+2","hjkl keys for moving iside the bowser, extreamly useful when having browser and  vim side by side, ( no need to swap to arrow keys to go up and down). Then the vim like search is also great with having the standard n key to go to the next element and stuff. I seldom used it but sometimes i think f and F keys ?were great for navigating to links","It  has everything i need so i cant think of any new additions"
+"2017/11/25 2:49:24 PM GMT+2","the basic vim like key bindings","Thanks for your great work, I really enjoyed using vimperator!"
+"2017/11/26 11:01:42 AM GMT+2","Vim-like tabs navigation",""
+"2017/11/26 9:38:32 PM GMT+2","The console, opening a new tab with ""t""",""
+"2017/11/26 11:13:45 PM GMT+2","In order of use/importance
+navigation:  hjkl, ^o, ^i   ^p ^n, gg,G, 
+open from clipboard:    p,P
+new, close tab:  t,d
+goto input:        gi 
+marks:           go, gn
+link hints:   f,F
+Ignore all keys:  shift-esc
+gui customization
+status line
+
+ Not being able to use these before DOM load would be VERY annoying.","Everytime I don't have keyboard navigation It feels like using chopsticks with mittens on. Thanks for removing my mittens."
+"2017/11/27 12:22:07 PM GMT+2","Custom commands, buffer",""
+"2017/11/27 6:40:16 PM GMT+2","set gui=none
+b, t, p, P, d, a, f and other keybindings","changing ff to other browser"
+"2017/11/28 11:19:30 AM GMT+2","opening links with ""f""; recording macros; efficient tab switching; efficient opening of URLs in the clipboard",""
+"2017/11/28 5:36:44 PM GMT+2","hide Firefox GUI, opening/closing URLs / tabs / windows, consistent UX",""
+"2017/11/28 11:54:47 PM GMT+2","Everything!  Well, mainly the fact that I can operate my browser rodent-free. Have been relying on this for the past X number of years. The fact that I can bind a macro to google for something without my hands leaving the keyboard. The fact that I can scroll, follow links, switch tabs, all without rodent interference. The fact that I can focus on an input field without using the rodent.  The fact that I can use terminal-like control keys for editing text fields (e.g., ctrl-D instead of reaching for the Del key, etc.). This last hasn't been that reliable because sometimes firefox has its own ideas about what should be interpreting keystrokes in input fields, but for the most part, it has been a boon.  Basically, the more my browser behaves like a glorified Vim, the more I like it.  The less my hands have to reach for the rodent, the happier I'll be.  I can't imagine life without Vimperator!","I will absolutely refuse to upgrade my browser unless I can be assured that there is a way to operate it without the rodent.  Using the rodent is slow and time-wasting, and gives my wrists an aneurysm.  Please consider future projects to support rodent-free browsing; you will definitely have my support!"
+"2017/11/29 10:40:46 AM GMT+2","hiding all the clutter, vim-style commands interface and scripting, vim-style keyboard shortcuts, making mouse input obsolete :-/",""
+"2017/11/30 1:04:44 AM GMT+2","* the tab-switching interface with b
+* link hinting with f and F
+* replacing the browser gui with a statusline, ex commands
+* the bookmarking interface
+* the config file format being easy-to-edit text",""
+"2017/11/30 3:08:47 PM GMT+2","Besides editing a ""buffer"", almost full vim functionality!!!",""
+"2017/12/01 12:30:54 AM GMT+2","works on new tab page. 'tsomething' opens 'something' only after I press enter instead of switching tabs immediately and focusing the address bar.",""
+"2017/12/01 2:40:51 PM GMT+2","vi-like bindings, config via file, set gui=nonavigation","unified bindings in all language layouts; map <layout_1> <layout_EN> is terrible"
+"2017/12/01 5:15:34 PM GMT+2","I liked: line editing features for :open and :tabopen; simple pasting via 'p'; being able to open keyworded bookmarks; very vim-like keyboard shortcuts (e.g. gf or gt).
+
+I loved the mode-ness, just like vim has. 
+
+I liked the sensible completion when :opening."," Thank for your work, which positively made my online experience much better."
+"2017/12/02 1:28:36 PM GMT+2","All of them. Would like a better bookmark list.",""
+"2017/12/04 3:47:46 AM GMT+2","Macros, Highlighting all occurrences of a word.  Copying links.","I really liked the custom status bar that vimperator added, it added a much more vim-like feel to all the typical browsing actions (C-w to backspace over words, helpful autocomplete hints, seeing the command as you type it, etc.)"
+"2017/12/04 4:45:23 AM GMT+2","All of them","rip vimperator "
+"2017/12/04 5:41:20 PM GMT+2","buffers","thank you!"
+"2017/12/04 7:37:19 PM GMT+2","Everything.",""
+"2017/12/05 10:20:02 AM GMT+2","VIm-like navigation without the need to switch between keyboard & mouse
+Ability to open text-input in external editors w/ persistence",""
+"2017/12/06 12:46:13 PM GMT+2","Hiding the FF GUI and allowing quick keyboard access to simple commands",""
+"2017/12/06 3:55:23 PM GMT+2","hide Firefox GUI, moving around page, link hinting mode",""
+"2017/12/07 6:53:51 PM GMT+2","Running JS, about:config using set, custom shortcuts, links, ",""
+"2017/12/09 12:01:49 AM GMT+2","Works in addons/newtab/settings page. .vimperatorrc is local, easy to set, .vimrc like configuration. You don't write your config in browser builtin editor with its own made-up syntax, like in some alternatives.","I don't want vim bindings in browser, I want my browser to be a part of vim.
+Since I want X (not w3m) and don't want undeveloped vim browsers, vimperator is perfect for me."
+"2017/12/09 4:22:49 PM GMT+2","vim-like keymaps, dustraction free",""
+"2017/12/10 10:19:53 AM GMT+2","quickmarks, gi to find input forms, in-page bookmarks (ma, `a)",""
+"2017/12/12 12:01:48 PM GMT+2","vimperatorrc, configurability, macros, and keybindings. Vimperator made browsing a pleasure.","Firefox has lost me with this move. Looking for an alternative that doesn't stink of Google."
+"2017/12/12 11:55:26 PM GMT+2","Vimperator",""
+"2017/12/13 6:31:48 PM GMT+2","config file to change key bindings to emacs mode",""
+"2017/12/15 2:36:51 PM GMT+2","everything ","don't go man,just don't "
+"2017/12/16 3:33:26 PM GMT+2","mouseless ","It works for me 100%"
+"2017/12/17 8:58:08 PM GMT+2","t, p, f, b, cookiemanager",""
+"2017/12/19 6:40:57 PM GMT+2","everything","nothing. It was amazing."
+"2017/12/19 7:53:47 PM GMT+2","fingers never left the keyboard. ;(","we love you. please come back. I sent you $10 to stimulate you. thanks for your service."
+"2017/12/21 9:39:10 AM GMT+2","full keyboard-based browsing. Bookmark, moving through the page, and following links.",""
+"2017/12/24 7:46:59 AM GMT+2","",""
+"2017/12/26 7:24:22 PM GMT+2","find, follow links, navigation in site (go to top/bottom), new tab, close tab, undo close tab, buffers(tab selection), next/prev tab",""
+"2017/12/28 3:13:45 PM GMT+2","foreground/background tab opening and saving media without using the mouse",""
+"2017/12/28 4:30:30 PM GMT+2","command line with no frills",""
+"2017/12/30 3:10:52 AM GMT+2","things I cannot live without:
+
+hjkl ^D ^U ^E ^Y… movements and jumps,
+buffer handling (d/u/p/P…)
+pagination with [[ and ]]
+jumps (G, gg…) and quickmarks
+f key for follow links, with numbers and typing
+/ to search within a page
+b to switch buffers
+a to bookmark a page
+t/T/n/N/o/O to open a new page, with the possibility to either switch back to an already opened page, open from history, or open from bookmarks
+^t/^i to edit text inputs with Vi keys or with real Vim
+the status bar to give state of the page/browsing in a concise way
+^o/^i to follow through the history
+z+/z-/z0 to control zooming
+macro recording/replaying
+:bufdo command
+:downloads listing","well there are features I would loved to have seen, like vim keys control of the caret (when enabled), and zz to center caret in middle of the viewport (or selection when caret is disabled).
+also, some sort of quickfix would be lovely."
+"2017/12/30 11:02:44 PM GMT+2","Hint mode",""
+"2018/01/01 2:51:58 AM GMT+2","link following with text-content hints
+
+scrolling by half pages and full pages
+
+history navigation
+
+background tab & window opening
+
+non-intrusive in-page searching
+
+wonderful search engine suggestion list","I added an extra add-on that marked boundary of the last visible portion of the page, would appreciate that embedded. 
+
+Wish that it could embed with firefox reader mode, and also vim's selection mode.
+
+Wish firefox provided more control of tab grouping within a window. Specifically where background links appear: at end of link group – respecting the forking-link-following strategy (preferred) or end of window/entire-tab-list.
+
+"
+"2018/01/04 8:12:47 AM GMT+2","command bar to use command to use the browser and to replace the nav bar,",""
+"2018/01/05 2:38:24 PM GMT+2","I used just the keybindings","You did a great job :D"
+"2018/01/12 1:29:13 AM GMT+2","search",""
+"2018/01/12 4:01:58 PM GMT+2","feels like vim","Thank you for your great work!"
+"2018/01/12 9:48:25 PM GMT+2","'t', 'd', 'g t', 'g T', '/', 'n', 'N', 'h', 'l'",""
+"2018/01/14 10:21:26 PM GMT+2","The fact that you could browse without go grabbing the mouse.","Even if you don't rewrite Vimperator I wanted to give you a huge thumbs up for making such great software."
+"2018/01/16 8:52:35 AM GMT+2","hot-keys: d, u, n, p, y",""
+"2018/01/17 10:52:03 PM GMT+2","quickmarks",""
+"2018/01/21 8:41:59 PM GMT+2","Ctrl+A and Ctrl+Z to increase of decrease the last number of the URL",""
+"2018/01/22 6:46:36 PM GMT+2","buffer; follow hint; undo; toggling between two tabs","search with regex support; toggling between two tabs even if previous tab was closed."
+"2018/01/24 12:07:24 PM GMT+2","vim-like control, making mouse useless","long live vimperator!"
+"2018/01/25 7:14:19 PM GMT+2","navigation with hjkl
+y - yank URL
+Record and play macros","To all Devs, thank you for your hard work!"
+"2018/01/26 8:53:31 AM GMT+2","almost full vim commands compatibility",""
+"2018/01/26 10:13:24 PM GMT+2","gg, shift+G, incrementing search and automatic follow on links... ","Old vimperator worked better than revised keyboard bindings later. Might be that I learned to use Internet with those, and learning new system is always hard, but even still I try to use commands and shortcuts from old days."
+"2018/01/31 11:11:50 PM GMT+2","keyboard navigation; ability to customize my keybindings (I used Emacs-like bindings); keyboard based web search and bookmarks",""
+"2018/02/02 11:14:26 PM GMT+2","Buffer - possibility to easily find, switch, close tabs",""
+"2018/02/08 10:21:23 PM GMT+2","Just the basics (copy&paste from feature wishlist): 
+- moving around page
+- link hinting mode
+- insert/passthrough mode
+- find in page mode
+- history navigation
+- tab switching / navigation (:buffer style)
+- opening/closing URLs / tabs / windows
+- consistent UX: e.g, works on about:newtab, about:home",""
+"2018/02/09 5:38:05 AM GMT+2","link hinting",""
+"2018/02/19 11:38:05 AM GMT+2","full keyboard navigation, hints mode for opening/URL yanking/..., u/d keys",""
+"2018/02/21 2:31:44 PM GMT+2","fast link following through [f] + initials of text link","It was great while it lasted. "
+"2018/02/22 12:07:53 AM GMT+2","Easy navigation.","Thanks! We'll miss you!"
+"2018/02/26 11:14:23 PM GMT+2","All of the vim-like keybindings: opening pages, following links, searching pages, tab control, bookmarks, etc. This addon has made my internet browsing much more efficient.","I am not going to upgrade Firefox solely because of how important this addon is to my workflow."
+"2018/02/27 9:44:55 PM GMT+2","Open links with F and f.",""
+"2018/03/04 6:23:56 AM GMT+2","It didn't suck","Every single vim addon for any browser sucks right now"
+"2018/03/06 1:58:07 PM GMT+2","comfortable search using 'o' and 't'",""
+"2018/03/10 10:41:11 AM GMT+2","bookmark",""
+"2018/03/16 11:53:41 AM GMT+2","f F d u gg gT gt : j k  :help","  .vimperatorrc and macros are great."
+"2018/03/26 11:04:18 PM GMT+2","command mode, tabs buffering, macro,","vim keybindings"
+"2018/03/29 9:59:34 PM GMT+2","being able to navigate the browser using the keyboard is a huge advantage when riding a train or in other shaky environments. And after getting used to it even in still environments. ","The web will be a different place for me without it. Thank you for building it!"
+"2018/04/01 10:24:40 PM GMT+2",":b# and macros",""
+"2018/04/02 3:46:26 AM GMT+2","moving around page","tab switching / navigation (:buffer style)"
+"2018/04/04 4:23:52 PM GMT+2","Following links (hints) easily with the keyboard.",""
+"2018/04/12 12:21:41 AM GMT+2","Not having to use my mouse, fastly executing commands","I will only come back from qutebrowser if i know vimperator is working here :c"
+"2018/04/16 1:37:55 PM GMT+2","tab opening, listing, page navigation, shortcuts (writing, printing pages), link following, bookmarking, search, form filling with external editor",""
+"2018/04/19 1:46:22 AM GMT+2","the main ones for me were basic.  j,k, cntr D, cntr U, gt, gT, f/F",""
+"2018/04/26 7:35:17 AM GMT+2","aside from general navigation functionalities, quick bookmarks is my favorite feature.",""
+"2018/05/06 1:54:10 PM GMT+2","Mouseless browsing: link selection with keyboard",""
+"2018/05/06 10:39:11 PM GMT+2","ad-hoc vimscript functionality; stability; buffers","Gonna miss Vimperator."
+"2018/05/08 9:33:02 AM GMT+2","hjkl mostly, following links, forwards/backwards navigation, searching, ...","Whyyyy. Seriously thanks for all the work."
+"2018/05/15 1:05:19 PM GMT+2","Custom hintchars, custom key sequences, finding character strings in current tab, restarting browser, closing browser, changing full screen and GUI quickly, setting focuscontent to true, showing all buffers and being able to switch to any of them, moving to previous and next tab, disabling and enabling vimperator commands was really easy, copying current url, opening new tab/window, opening new tab/window with copied url, ""p"" and ""P"" features that directly opened whatever was in clipboard into current tab and new tab respectively",""
+"2018/05/22 2:44:31 PM GMT+2","""t"", ""T"", ""D"", ""d"", ""f"", ""o""",""
+"2018/05/31 4:02:41 AM GMT+2","1.) j / k scrolling 2.) ex commands (o for open / t for tabopen) 3.) it can read from a config file in my home folder! (4.) old and crufty just like vim, i'll keep using it forever!!",""
+"2018/06/13 10:00:20 PM GMT+2","The facility to reorder tabs with the keyboard, but (more importantly) the name",""
+"2018/06/19 9:37:25 AM GMT+2","Editing text areas in external editor (Vim, of course!), keyboard-only navigation, recall of Ex commands (e.g. :tabopen) from the command-history","Been a long-time user, first with Vimperator, then moving to the Pentadactyl fork. So sad that Firefox is sacrificing the large add-on base in its catch-up to the superior speed of Chrome."
+"2018/06/29 3:18:39 AM GMT+2","All",""
+"2018/06/29 10:34:55 AM GMT+2","vim-like hotkeys, buffer- and bookmark management, search functionality, minimal UI",""
+"2018/06/29 1:43:31 PM GMT+2","Just the overall possibility to use my browser without a need for a mouse ",""
+"2018/07/09 7:34:12 PM GMT+2","searching on page, tabs logic, command line, history (vim like), navigation on page",""
+"2018/07/14 5:10:30 AM GMT+2","Running CMDs",""
