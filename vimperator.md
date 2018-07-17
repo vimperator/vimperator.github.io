@@ -60,19 +60,21 @@ hurt — otherwise just use it, recommend it and like it :)
 <b>NOTE:</b> Vimperator will stop functioning with Firefox 57!
 </p>
 <p>
-Firefox 57 will change its add-on ecosystem to be exclusively based on
-[WebExtensions](https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/).
+Firefox 57 will change its add-on ecosystem to be exclusively based on <a
+href="https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/">WebExtensions</a>.
 While this offers (some) compatibility with extensions written for Chrome and
 Microsoft Edge, it removes the possibility to do many advanced stuff which
 Vimperator does. Additionally, it would require a full rewrite of Vimperator,
 which nobody has volunteered for. Therefore we will stop supporting any Firefox
-version later than Firefox 56. Head over to our GitHub page for
-[a list of alternatives](https://github.com/vimperator/vimperator-labs#end-of-life-and-alternatives)
-or [a detailed discussion](https://github.com/vimperator/vimperator-labs/issues/705).
-If you want to have famous last words, you can take a survey
-[here](https://docs.google.com/forms/d/e/1FAIpQLSfTvWhTWbWAWpbbeoVM_RkDEQV6dqp4YL9Gt77gNkQHN4pTZA/formResponse)
+version later than Firefox 56. Head over to our GitHub page for <a
+href="https://github.com/vimperator/vimperator-labs#end-of-life-and-alternatives">a
+list of alternatives</a> or <a
+href="https://github.com/vimperator/vimperator-labs/issues/705">a detailed
+discussion</a>.
+If you want to have famous last words, you can take a survey <a
+href="https://docs.google.com/forms/d/e/1FAIpQLSfTvWhTWbWAWpbbeoVM_RkDEQV6dqp4YL9Gt77gNkQHN4pTZA/formResponse">here</a>
 to inspire future add-on authors what you actually liked about Vimperator
-(<b>update:</b> [survey results in CSV]({{ site.url }}/assets/vimperator_exit_eol_survey.csv))
+(<b>update:</b> <a href="{{ site.url }}/assets/vimperator_exit_eol_survey.csv">survey results in CSV</a>).
 </p>
 </div>
 
