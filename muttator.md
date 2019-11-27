@@ -10,7 +10,7 @@ which makes it look and behave like the [Vim]({{ site.data.links.vim }})
 text editor.
 It has similar key bindings and you could call it a modal mail client,
 as key bindings differ according to which mode you are in.
-For example, it the same keys can select the next message while the message
+For example, the same key can select the next message while the message
 list has focus or can scroll down an existing message when the message preview
 is selected.
 It also adds commands for accessing most Thunderbird functionality - e.g.
